@@ -1,10 +1,10 @@
-# Baileys-MOD (Super Baileys) ⭐
+# toxic-baileys
 
 <div align="center">
 
 [![npm version](https://img.shields.io/npm/v/@xh_clinton/baileys-mod.svg?style=for-the-badge)](https://www.npmjs.com/package/@xh_clinton/baileys-mod)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![npm downloads](https://img.shields.io/npm/dm/@xh_clinton/baileys-mod.svg?style=for-the-badge)](https://www.npmjs.com/package/@xh_clinton/baileys-mod)
+[![npm downloads](https://img.shields.io/npm/dm/@xh_clinton/baileys-mod.svg?style=for-the-badge)](https://www.npmjs.com/package/@xh_clinton/toxic-baileys)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/xhclintohn/Baileys)
 
 </div>
